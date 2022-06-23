@@ -1,0 +1,27 @@
+
+.container{
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    gap:20px;
+}
+
+.rec{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    border-radius: 5px;
+}
+
+.rec>img{
+    width: 100%;
+    height: 150px;
+    object-fit: contain;
+}
+
+.rec>h1{
+    margin: 50px 0 0 0;
+    text-align: center;
+    color: #E15E4D;
+}
