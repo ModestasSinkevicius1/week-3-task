@@ -1,3 +1,3 @@
 # week-3-task
 
-Project about creating similar desing based of image.
+Project about creating similar design based of image.
